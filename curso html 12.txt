@@ -1,0 +1,15 @@
+h1 Y Tab- <body><h1>HOLA COMO ESTAN</h1> en le centro se pone titulo
+
+
+
+
+<body>-lo que salga en la pagina
+<meta charset="utf-8"> para ponetr en español
+<nav> navegacion
+<br> espacio
+<hr> linea
+<div> para separar y ubicar donde sea
+<figure> para figuras-imagenes
+<img src=""> para imagenes especificas
+GITHUB- Para guardar archivos
+tienes que pasar tus archivos a la pagina
